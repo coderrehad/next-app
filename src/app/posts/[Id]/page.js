@@ -1,9 +1,9 @@
 'use client'
-
 import React from 'react';
 import {useParams} from "next/navigation";
 import Link from "next/link";
 
+// eslint-disable-next-line @next/next/no-async-client-component
 const PostDetails = async () => {
     let params = useParams()
 

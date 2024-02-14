@@ -7,7 +7,7 @@ const Page = () => {
             <h1>Home page</h1><br/><br/>
             <Link className='btn btn-primary' href='/product'>Product</Link><br/><br/>
             <Link className='btn btn-primary' href='/posts'>Posts</Link><br/><br/>
-            <Link className='btn btn-primary' href='/comments'>Comments</Link><br/><br/>
+            <Link className='btn btn-primary' href='/news'>News</Link><br/><br/>
         </>
     );
 };
